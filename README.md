@@ -1,3 +1,6 @@
+Trying to understand and modify this interpreter to our needs.
+Adding a custom function.
+
 Originally forked from https://github.com/zsaleeba/picoc
 
 # Description
